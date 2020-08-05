@@ -16,14 +16,14 @@ My "Scenario Week 3" project, part of Year 1 of the BSc Management Science progr
 3) Perform Demand Forecasting
 
 ## Languages
-* R
+– R
 
 ## Packages/Models/Methods
 * Visualized data on various types of graphs in R (ggplot): barplot, scatterplot, line graph, ridgeline graph, maps
 * Fitted and utilized various models in R: linear regression, multiple linear regression, random forest, regression tree, LASSO, Neural Network
 
 ## Business Applications
-* Drew insights from graphs and models forming various managerial insights for "The Retailer"
+– Drew insights from graphs and models forming various managerial insights for "The Retailer"
 
 ## Contributors
 Amanda Lim ("22)
