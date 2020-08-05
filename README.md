@@ -1,7 +1,7 @@
 # dunnhumby-retailer-analysis
 My "Scenario Week 3" project, part of Year 1 of the BSc Management Science programme at UCL. This was my first ever data analysis group project! In this report, my team analyzed and drew managerial insights from transaction, product, store location datasets provided by Dunnhumby from an anonymous retailer. Visualizations and full analysis are available in the .pdf report.
 
-## Datasets
+## Datasets (Available in .zip file)
 * *stores.csv*
 * *products.csv*
 * *test.csv*
