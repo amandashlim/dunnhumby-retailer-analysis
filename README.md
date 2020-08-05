@@ -27,8 +27,13 @@ My "Scenario Week 3" project, part of Year 1 of the BSc Management Science progr
 
 ## Contributors
 Amanda Lim ("22)
+
 Romain Pelletier ("22)
+
 Bhavya Gupta ("22)
+
 Colm Tobin ("22)
+
 Quentin Leroux ("22)
+
 Dimitri Hankins ("22)
